@@ -1,5 +1,5 @@
 # EveCloud Miner
-
+![Downloads](https://img.shields.io/github/downloads/evecloud/evecloud-miner/total?style=for-the-badge)
 ## Requirements
 
 - NodeJS 14
