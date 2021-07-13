@@ -4,3 +4,6 @@
 package-lock.json
 /test
 /build/xmrig
+/src/modules 
+/src/utils
+/xmrig

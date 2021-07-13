@@ -1,6 +1,6 @@
 {
   "name": "evecloud-miner",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Mine Credits",
   "homepage": "https://evecloud.xyz",
   "bin": "src/index.js",
