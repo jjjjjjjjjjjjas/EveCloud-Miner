@@ -1,4 +1,4 @@
-### EveCloud Miner
+# EveCloud Miner
 
 ## Requirements
 
@@ -12,7 +12,7 @@
 
 ## Usage 
 
-Run evecloud-miner-(linux/macos/win.exe) and then follow the instructions.
+Run ```evecloud-miner-(linux/macos/win.exe)``` and then follow the instructions.
 
 ## Report Bugs
 
