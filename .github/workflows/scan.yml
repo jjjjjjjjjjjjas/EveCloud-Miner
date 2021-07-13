@@ -2,7 +2,7 @@ name: virustotal
 
 on:
   release:
-    types: main
+    types: [main]
 
 jobs:
   virustotal:
