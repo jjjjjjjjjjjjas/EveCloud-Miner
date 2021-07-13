@@ -9,6 +9,7 @@
 ### Download
 
 - [Binary releases](https://github.com/EveCloud/EveCloud-Miner/releases)
+- [Download from source](https://github.com/EveCloud/EveCloud-Miner/tree/main/build)
 
 ### Usage 
 
