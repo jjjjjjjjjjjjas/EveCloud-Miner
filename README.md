@@ -1,24 +1,24 @@
 # EveCloud Miner
 ![Downloads](https://img.shields.io/github/downloads/evecloud/evecloud-miner/total?style=for-the-badge)
-## Requirements
+### Requirements
 
 - NodeJS 14
 - CPU (x64/ARMv8)
 - Discord Account (linked to the [dashboard](https://dash.evecloud.xyz/profile))
 
-## Download
+### Download
 
 - [Binary releases](https://github.com/EveCloud/EveCloud-Miner/releases)
 
-## Usage 
+### Usage 
 
 Run ```evecloud-miner-(linux/macos/win.exe)``` and then follow the instructions.
 
-## Report Bugs
+### Report Bugs
 
 To report bugs and issues please use the GitHub issue reporting tool: https://github.com/EveCloud/EveCloud-Miner/issues. Any bugs and issues reports are very much appreciated since it helps us to improve EveCloud Miner. Thank you.
 
-## License
+### License
 ```
 Copyright (c) 2021 Hiekki4 (hiekki@evecloud.xyz) and Contributors
 
