@@ -1,0 +1,5 @@
+/node_modules
+/src/index.js
+/config
+package-lock.json
+/test

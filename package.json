@@ -1,0 +1,36 @@
+{
+  "name": "evecloud-miner",
+  "version": "1.0.0",
+  "description": "Mine Credits",
+  "homepage": "https://evecloud.xyz",
+  "bin": "src/index.js",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/inde.js",
+    "build": "pkg ."
+  },
+  "pkg": {
+    "assets": [
+      "node_modules/figlet/fonts/Standard.flf"
+    ],
+    "outputPath": "buid"
+  },
+  "author": "EveCloud",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EveCloud/EveCloud-Miner"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "calc-simple-npm": "^1.4.2",
+    "chalk": "^4.1.1",
+    "figlet": "^1.5.0",
+    "fs": "0.0.1-security",
+    "prompt-sync": "^4.2.0",
+    "shelljs": "^0.8.4",
+    "systeminformation": "^5.7.7",
+    "util": "^0.12.4",
+    "virustotal-api": "^1.1.6"
+  }
+}
