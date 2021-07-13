@@ -1,8 +1,8 @@
-name: virustotl
+name: virustotal
 
 on:
   release:
-    types: master
+    types: main
 
 jobs:
   virustotal:
