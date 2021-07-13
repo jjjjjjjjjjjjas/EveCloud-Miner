@@ -13,7 +13,7 @@
     "assets": [
       "node_modules/figlet/fonts/Standard.flf"
     ],
-    "outputPath": "buid"
+    "outputPath": "build"
   },
   "author": "EveCloud",
   "repository": {
