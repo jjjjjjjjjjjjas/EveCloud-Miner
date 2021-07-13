@@ -30,7 +30,6 @@
     "prompt-sync": "^4.2.0",
     "shelljs": "^0.8.4",
     "systeminformation": "^5.7.7",
-    "util": "^0.12.4",
-    "virustotal-api": "^1.1.6"
+    "util": "^0.12.4"
   }
 }
